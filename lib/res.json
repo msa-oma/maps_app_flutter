@@ -1,0 +1,263 @@
+{
+    "predictions" : [
+       {
+          "description" : "Amoeba Music, هوليوود، لوس أنجلوس، كاليفورنيا، الولايات المتحدة",
+          "matched_substrings" : [
+             {
+                "length" : 6,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJRdmfADq_woARYaVhnfQSUTI",
+          "reference" : "ChIJRdmfADq_woARYaVhnfQSUTI",
+          "structured_formatting" : {
+             "main_text" : "Amoeba Music",
+             "main_text_matched_substrings" : [
+                {
+                   "length" : 6,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "هوليوود، لوس أنجلوس، كاليفورنيا، الولايات المتحدة"
+          },
+          "terms" : [
+             {
+                "offset" : 0,
+                "value" : "Amoeba Music"
+             },
+             {
+                "offset" : 14,
+                "value" : "هوليوود"
+             },
+             {
+                "offset" : 23,
+                "value" : "لوس أنجلوس"
+             },
+             {
+                "offset" : 35,
+                "value" : "كاليفورنيا"
+             },
+             {
+                "offset" : 47,
+                "value" : "الولايات المتحدة"
+             }
+          ],
+          "types" : [
+             "electronics_store",
+             "home_goods_store",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ]
+       },
+       {
+          "description" : "Amoeba Music, Haight Street, سان فرانسيسكو، كاليفورنيا، الولايات المتحدة",
+          "matched_substrings" : [
+             {
+                "length" : 6,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJ5YQQf1GHhYARPKG7WLIaOko",
+          "reference" : "ChIJ5YQQf1GHhYARPKG7WLIaOko",
+          "structured_formatting" : {
+             "main_text" : "Amoeba Music",
+             "main_text_matched_substrings" : [
+                {
+                   "length" : 6,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "Haight Street, سان فرانسيسكو، كاليفورنيا، الولايات المتحدة"
+          },
+          "terms" : [
+             {
+                "offset" : 0,
+                "value" : "Amoeba Music"
+             },
+             {
+                "offset" : 14,
+                "value" : "Haight Street"
+             },
+             {
+                "offset" : 29,
+                "value" : "سان فرانسيسكو"
+             },
+             {
+                "offset" : 44,
+                "value" : "كاليفورنيا"
+             },
+             {
+                "offset" : 56,
+                "value" : "الولايات المتحدة"
+             }
+          ],
+          "types" : [
+             "electronics_store",
+             "home_goods_store",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ]
+       },
+       {
+          "description" : "Amoeba - HM Leisure, Church Street, Shanthala Nagar, Ashok Nagar, بنغالور، كارناتاكا، الهند",
+          "matched_substrings" : [
+             {
+                "length" : 6,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJ8yiiSnwWrjsRmVzwBO5BqJo",
+          "reference" : "ChIJ8yiiSnwWrjsRmVzwBO5BqJo",
+          "structured_formatting" : {
+             "main_text" : "Amoeba - HM Leisure",
+             "main_text_matched_substrings" : [
+                {
+                   "length" : 6,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "Church Street, Shanthala Nagar, Ashok Nagar, بنغالور، كارناتاكا، الهند"
+          },
+          "terms" : [
+             {
+                "offset" : 0,
+                "value" : "Amoeba - HM Leisure"
+             },
+             {
+                "offset" : 21,
+                "value" : "Church Street"
+             },
+             {
+                "offset" : 36,
+                "value" : "Shanthala Nagar"
+             },
+             {
+                "offset" : 53,
+                "value" : "Ashok Nagar"
+             },
+             {
+                "offset" : 66,
+                "value" : "بنغالور"
+             },
+             {
+                "offset" : 75,
+                "value" : "كارناتاكا"
+             },
+             {
+                "offset" : 86,
+                "value" : "الهند"
+             }
+          ],
+          "types" : [ "bowling_alley", "point_of_interest", "establishment" ]
+       },
+       {
+          "description" : "Amoeba Music, شارع تلغراف، بيركلي، كاليفورنيا، الولايات المتحدة",
+          "matched_substrings" : [
+             {
+                "length" : 6,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJr7uwwy58hYARBY-e7-QVwqw",
+          "reference" : "ChIJr7uwwy58hYARBY-e7-QVwqw",
+          "structured_formatting" : {
+             "main_text" : "Amoeba Music",
+             "main_text_matched_substrings" : [
+                {
+                   "length" : 6,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "شارع تلغراف، بيركلي، كاليفورنيا، الولايات المتحدة"
+          },
+          "terms" : [
+             {
+                "offset" : 0,
+                "value" : "Amoeba Music"
+             },
+             {
+                "offset" : 14,
+                "value" : "شارع تلغراف"
+             },
+             {
+                "offset" : 27,
+                "value" : "بيركلي"
+             },
+             {
+                "offset" : 35,
+                "value" : "كاليفورنيا"
+             },
+             {
+                "offset" : 47,
+                "value" : "الولايات المتحدة"
+             }
+          ],
+          "types" : [
+             "electronics_store",
+             "home_goods_store",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ]
+       },
+       {
+          "description" : "Amoeba, 22nd Cross Road, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, بنغالور، كارناتاكا، الهند",
+          "matched_substrings" : [
+             {
+                "length" : 6,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJgVZhUr0VrjsRMfKxI5eYTvs",
+          "reference" : "ChIJgVZhUr0VrjsRMfKxI5eYTvs",
+          "structured_formatting" : {
+             "main_text" : "Amoeba",
+             "main_text_matched_substrings" : [
+                {
+                   "length" : 6,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "22nd Cross Road, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, بنغالور، كارناتاكا، الهند"
+          },
+          "terms" : [
+             {
+                "offset" : 0,
+                "value" : "Amoeba"
+             },
+             {
+                "offset" : 8,
+                "value" : "22nd Cross Road"
+             },
+             {
+                "offset" : 25,
+                "value" : "Jaya Nagar 1st Block"
+             },
+             {
+                "offset" : 47,
+                "value" : "Jayanagar 3rd Block"
+             },
+             {
+                "offset" : 68,
+                "value" : "Jayanagar"
+             },
+             {
+                "offset" : 79,
+                "value" : "بنغالور"
+             },
+             {
+                "offset" : 88,
+                "value" : "كارناتاكا"
+             },
+             {
+                "offset" : 99,
+                "value" : "الهند"
+             }
+          ],
+          "types" : [ "bowling_alley", "point_of_interest", "establishment" ]
+       }
+    ],
+    "status" : "OK"
+ }
